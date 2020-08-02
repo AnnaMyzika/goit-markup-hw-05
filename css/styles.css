@@ -681,7 +681,8 @@ img {
   color: var(--title-dark-theme-color);
 }
 
-.overlay:hover .absolute-portfolio-gallery-description {
+.portfolio-gallery-list-item-link:hover
+  .absolute-portfolio-gallery-description {
   opacity: 1;
 }
 
